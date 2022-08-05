@@ -1,0 +1,4 @@
+- name: Install awesome
+  become: true
+  apt:
+    name: [awesome]
