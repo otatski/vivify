@@ -1,9 +1,0 @@
-- name: Install Python
-  apt:
-    name: [
-      pycodestyle,
-      pydocstyle,
-      pylint,
-      python3,
-      python3-pip,
-    ]

@@ -1,0 +1,5 @@
+[apt-update]
+name = "apt-update"
+command = "/usr/bin/apt-get update"
+args = ["-y"]
+description = "Updating package lists"

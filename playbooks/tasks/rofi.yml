@@ -1,4 +1,0 @@
-- name: Install rofi
-  become: true
-  apt:
-    name: [rofi]

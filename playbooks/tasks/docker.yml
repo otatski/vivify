@@ -1,3 +1,0 @@
-- name: Install Docker
-  become: true
-  shell: sh -c "$(wget https://get.docker.com -O -)"

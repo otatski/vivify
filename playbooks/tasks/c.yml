@@ -1,9 +1,0 @@
-- name: Install C
-  apt:
-    name: [
-      clang,
-      clang-tidy,
-      cmake,
-      gdb,
-      nasm,
-    ]

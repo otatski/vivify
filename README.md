@@ -6,12 +6,11 @@ This instructions will be updated as the project evolves.
 ---
 ### Required for Development
 - Rust
-- Ansible
 ---
 ### Installation
 ##### From source
 - Clone the repository
-- Navigate to progect directory
+- Navigate to project directory
 -   $: `cargo build -r`
 -   $: `./target/release/vivify`
 

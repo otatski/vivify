@@ -1,0 +1,5 @@
+[apt-upgrade]
+name = "apt-upgrade"
+command = "/usr/bin/apt-get upgrade"
+args = ["-y"]
+description = "Upgrading packages"
