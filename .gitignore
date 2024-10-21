@@ -1,6 +1,2 @@
-# Editor Files
-.idea
-.vscode
-
-# Rust Files
 /target
+.data/*.log
